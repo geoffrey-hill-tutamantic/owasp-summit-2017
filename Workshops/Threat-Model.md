@@ -10,6 +10,7 @@ Organizer(s): [Geoff Hill](../Participants/Geoff-Hill.md)
 
 **Who should be there**
 
+(the following have been contacted as of 2017/01/14)
 - Michael Howard
 - Adam Shostack
 - Bryan Sullivan
@@ -17,6 +18,8 @@ Organizer(s): [Geoff Hill](../Participants/Geoff-Hill.md)
 - John Steven
 - Robert Hurlbut
 - Sammy Migues
+
+(the following have yet to be contacted)
 - Aarun (Threatmodeler owner)
 - Continuum people?
 - Security Compass people?
