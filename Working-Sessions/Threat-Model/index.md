@@ -36,7 +36,8 @@ Work on multiple Threat Modeling topics and improve existing materials.
 - Integration into DevOps
 - Use of output by downstream systems... development, test, deployment, etc
 - Making the infrastructure and system (as opposed to just software) threat modeling more mature
-- Unified input and output in a sSDL
+- re-defining a sSDLC for better threat model utilisation
+- Unified input and output in a sSDLC
 - Simplifying threat modeling for business environments
 - Scaling threat models throughout an organization (central storage, versioning control, etc)
 - Automating threat models
